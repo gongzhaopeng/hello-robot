@@ -1,0 +1,1 @@
+This example project is based on the article located at https://medium.com/edureka/robot-framework-tutorial-f8a75ab23cfd
