@@ -9,7 +9,7 @@ Library           SeleniumLibrary
 *** Variables ***
 ${SERVER}         localhost:7272
 ${BROWSER}        Chrome
-${DELAY}          0
+${DELAY}          0.2
 ${VALID USER}     demo
 ${VALID PASSWORD}    mode
 ${LOGIN URL}      http://${SERVER}/
